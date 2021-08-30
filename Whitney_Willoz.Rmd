@@ -1,0 +1,22 @@
+---
+title: "Whitney_Willoz"
+author: "Whitney Willoz"
+date: "8/30/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+- Whitney Willoz
+- Git hub username: WhitneyRW
+
+1st commit: Create README ID:5b20e6e
+
+2nd commit: Update README ID:7958af1
+
+No issues encountered
+
+I had no issues making an account.
+
