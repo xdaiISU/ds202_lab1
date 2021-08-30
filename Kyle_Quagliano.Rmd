@@ -1,0 +1,30 @@
+---
+title: "Kyle_Quagliano"
+author: "Kyle Quagliano"
+date: "8/30/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+  Name: Kyle Quagliano
+  GitHub Username: kylequagliano
+  
+  In the first commit the instructor created the Readme file. The Commit ID is      
+  5b20e6e3c657e5a6e6ab1c99d28e84b9efc78366
+    
+  In the second commit the instructor updated the README file. The commit ID is 
+  7958af1beeaf537c8136cda7b4d1f2bc5e806550
+  
+  The hw1 r markdown file knit without error.
+  
+  One problem I encountered with github was trying to push my file to my repository because of the new need to add a personal access token to log in.
+
