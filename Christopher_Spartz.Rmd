@@ -1,0 +1,26 @@
+---
+title: "Lab 1 Christopher Spartz"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Full Name
+Christopher Spartz
+
+## Github Username
+cgspartz
+
+## What did the instructor do in his first 2 commits? What are the commit IDs?
+The instructor first created the README file and then he updated that README file and finally he added hw1.rmd<br />
+The commit ID of the first commit: 5b20e6e3c657e5a6e6ab1c99d28e84b9efc78366 <br />
+The commit ID of the second commit: 7958af1beeaf537c8136cda7b4d1f2bc5e806550 <br />
+The commit ID of the third commit: bc00f70dbe82850c74f1cc0e6e89d2668a18bfa2
+
+## Knit the instructor’s hw1.Rmd. Are you able to do so without error? If you cannot, what errors did you counter?
+I was able to do so without error
+
+## Also include an error/difficulty you encountered, or a tip for making Git/GitHub easier.
+To make using git easier you can use both the command line, and the website or desktop app, since sometimes it is nice to see a visual representation of what has changed with each new commit. A difficulty that I had encountered was trying to pull from the remote when the remote had something different from my local repository as the local did not want to merge with the remote repository.
