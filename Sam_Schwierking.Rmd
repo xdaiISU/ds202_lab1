@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "HW #2"
 output: html_document
 ---
 
@@ -7,22 +7,31 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
+## Full Name 
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+  Answer: Sam Schwierking
+  
+## GitHub username
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+  Answer: Schwierk
 
-```{r cars}
-summary(cars)
-```
+## What did the instructor do in the first two commits? What are the commits IDs?
 
-## Including Plots
+There are actually three commits now:
 
-You can also embed plots, for example:
+Create README:
+5b20e6e3c657e5a6e6ab1c99d28e84b9efc78366
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+Update README:
+7958af1beeaf537c8136cda7b4d1f2bc5e806550
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+Rename README to README.md:
+5dd17cef356f30b711ed27eb24a99071d2a751f2
+
+## Knit the instructor's hw1.Rmd. Are you able to do so without error? If you cannot, what errors did you counter?
+
+I was able to do it without error.
+
+## Also include an error/difficulty you encountered, or a tip for making Git/GitHub easier.
+
+  Answer: For some reason when I am trying to use the function cd I have to type out the absolute path every time. I am not sure if that is an issue or not, but it still works. I just don't know in the future if that is going to hurt me, or if it just going to take longer time. I also learned that making commits are important for going back and looking at where you the last stage the code was in.
