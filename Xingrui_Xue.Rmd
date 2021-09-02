@@ -1,0 +1,20 @@
+---
+title: "Xingrui_Xue"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Lab 1 Part II Step 2.3
+
+Full name: Xingrui Xue
+GitHub username: XingruiXue
+
+First commit: Create README   ID: 5b20e6e
+Second commit: Update README   ID: 7958af1
+
+hw1 was able be knitted without encountering errors.
+
+Git can autocorrect and provide the most similar suggestion for the typoed command.
