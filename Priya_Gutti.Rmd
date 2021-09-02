@@ -1,0 +1,28 @@
+---
+title: "Priya_Gutti"
+output: html_document
+---
+**GitHub Username: priyagutti**
+
+**What did the instructor do in the first two commits? What are the commit IDs?**
+
+1st commit: The create 'README' including some text 
+ID:5b20e6e3c657e5a6e6ab1c99d28e84b9efc78366
+
+2nd commit: Update README that inserted a space between two lines
+
+ID: 7958af1beeaf537c8136cda7b4d1f2bc5e806550
+
+**Knit the Owner’s hw1_FirstName_LastName.Rmd. Are you able to do so without error? If you cannot, what errors did you counter?**
+
+There were no errors when knitting hw.Rmd
+
+**Also include an error/difficulty you encountered, or a tip for making Git/GitHub easier.**
+
+I didn't have any major troubles when doing this lab. 
+
+
+
+
+
+
