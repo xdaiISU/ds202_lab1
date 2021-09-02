@@ -1,0 +1,27 @@
+---
+title: "Lab 1"
+author: "Daniel Schimke"
+date: "9/2/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### Full Name and GitHub username
+Daniel Schimke: dschimke
+
+### What did the instructor do in the first two commits? What are the commit IDs?
+The first commit is to make the README file with some simple instructions on it. The second commit updates the README by adding a new line.
+
+ID of first commit: 5b20e6e3c657e5a6e6ab1c99d28e84b9efc78366
+
+ID of second commit: 7958af1beeaf537c8136cda7b4d1f2bc5e806550
+
+### Knit the instructor's hw1.Rmd. Are you able to do so without error?
+I was able to knit the file successfully with no errors.
+
+### Include any errors/difficulties or a tip for GitHub.
+I did not have any issues with GitHub, but I would recommend committing and pushing code on a regular basis rather than finishing very large sections of code without committing. This will allow you to go back to a previous state if there are unseen consequences that are difficult to fix. This practice will also make working as a group easier as the other collaborators have the most up to date code if it is all in one place. 
+
