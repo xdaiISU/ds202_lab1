@@ -1,0 +1,35 @@
+---
+title: "GaJin_Kim"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```
+Your full name and GitHub username.
+
+Name: GaJin Kim
+Username: GaJinKim
+```
+
+```
+What did the instructor do in the first two commits? What are the commit IDs?
+
+First Commit: Created ReadMe (clone id: 5b20e6e3c657e5a6e6ab1c99d28e84b9efc78366). States if you're working individually, push your files to this repository.
+Second Commit: Updates ReadMe (clone id: 7958af1beeaf537c8136cda7b4d1f2bc5e806550). Adds an empty line.
+```
+
+```
+Knit the instructor’s hw1.Rmd. Are you able to do so without error? If you cannot, what errors did you counter?
+
+No Errors.
+```
+
+```
+Also include an error/difficulty you encountered, or a tip for making Git/GitHub easier.
+
+I forgot to rename the remote repository when I cloned to to my local directory, so I had to remove it and reclone it. The command to remove non-empty directories is "rm -r dirname".
+```
+```{r eval=FALSE}
