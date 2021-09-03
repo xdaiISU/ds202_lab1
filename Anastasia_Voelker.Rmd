@@ -1,0 +1,23 @@
+---
+title: "Anastasia_Voelker"
+author: "Anastasia Voelker"
+date: "9/3/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Full Name: Anastasia Voelker
+GitHub Username: anastasiavoelker
+
+In the first commit, the instructor created the README file.
+Commit ID: 5b20e6e3c657e5a6e6ab1c99d28e84b9efc78366
+
+In the second commit, the instructor updated the README file.
+Commit ID: 7958af1beeaf537c8136cda7b4d1f2bc5e806550
+
+I was able to knit the hw1 file without difficulty.
+
+I struggled to find the instructors commits.
