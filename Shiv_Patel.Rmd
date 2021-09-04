@@ -1,0 +1,21 @@
+---
+title: "Shiv_Patel"
+author: "Shiv Patel"
+date: "9/4/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+Name: Shiv Patel
+
+github username: shivgp11`
+
+commits: 
+
+    829fc84f6fac026a2af1200868ada2cdab97c467: add ReadMe w/ text
+    
+    00185f52bead7cffe9cf014b141dcec2c4b18a8e: updat ReadMe w/ spaces
+  
+No error when knitting instructor's file
